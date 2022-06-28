@@ -1,0 +1,46 @@
+div {
+  background-color: #CDF0EA;
+
+
+}
+
+body {
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  font-family: Tahoma, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 500%;
+  margin-top: 0;
+  padding-top: 10px;
+  font-family: 'Caveat', cursive;
+  
+}
+h2 {
+  margin-top: 0;
+}
+.profile{
+
+}
+
+
+
+.top-div {
+  padding-top: 100px;
+  position: relative;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 450px;
+  top:50px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 500px;
+  bottom:300px;
+
+}
